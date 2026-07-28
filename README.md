@@ -58,5 +58,3 @@ Author
 Mahima Agarwal
 
 BBA Student | Data Analytics Enthusiast | Power BI Developer
-
-README ready hai babu ✨
